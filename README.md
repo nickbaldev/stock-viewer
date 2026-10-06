@@ -36,10 +36,6 @@ python stock.py
 
 The application is designed to run in a terminal that supports curses.
 
-## Background
-
-This project was originally developed as a Python command-line stock tracking application. The current repository preserves the original implementation while presenting it in a clean, recruiter-facing project structure.
-
 ## What It Demonstrates
 
 Python application development, web scraping, data parsing, request caching, terminal UI development, sorting, periodic refresh, and handling of market-hours behavior.
